@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/allwinrobert/Leetcode_Solved/tree/master/3797-design-spreadsheet) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/allwinrobert/Leetcode_Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
